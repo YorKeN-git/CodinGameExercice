@@ -13,7 +13,7 @@ Le mot sera écrit avec un retou chariot.
 <pre><code>
 Saisissez votre mot : 
 Hello
-Quel est votre contrainte ? (S/D)
+Quelle est votre contrainte ? (S/D)
 S
 Hello olleH Hello olleH Hello 
 </pre></code>
@@ -21,7 +21,7 @@ Hello olleH Hello olleH Hello
 <pre><code>
 Saisissez votre mot : 
 Hello
-Quel est votre contrainte ? (S/D)
+Quelle est votre contrainte ? (S/D)
 D
 Hello
 olleH
